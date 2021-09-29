@@ -1,7 +1,7 @@
 {
-  "name": "play-cards-bot",
+  "name": "telegram_bot_for",
   "version": "0.0.1",
-  "description": "Telegram bot for playing card games",
+  "description": "Telegram bot for ...",
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
