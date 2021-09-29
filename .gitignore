@@ -1,7 +1,7 @@
-//dist
+dist
 node_modules
-//tmp
+tmp
 
-//.env
-//.todo
-//.vsls.json
+.env
+.todo
+.vsls.json
